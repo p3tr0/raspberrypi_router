@@ -1,0 +1,15 @@
+[submodule "3rd-party/lua-resty-openssl"]
+	path = lua/lua-resty-openssl
+	url = https://github.com/fffonion/lua-resty-openssl
+[submodule "3rd-party/lua-resty-openssl-aux-module"]
+	path = lua/lua-resty-openssl-aux-module
+	url = https://github.com/fffonion/lua-resty-openssl-aux-module
+[submodule "3rd-party/lua-resty-getorigdest-module"]
+	path = lua/lua-resty-getorigdest-module
+	url = https://github.com/Evengard/lua-resty-getorigdest-module
+[submodule "3rd-party/lua-struct"]
+	path = lua/lua-struct
+	url = https://github.com/iryont/lua-struct
+[submodule "3rd-party/lua-resty-socks5"]
+	path = lua/lua-resty-socks5
+	url = https://github.com/Evengard/lua-resty-socks5
